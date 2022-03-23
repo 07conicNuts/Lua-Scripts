@@ -6,7 +6,9 @@ local messages = {
 	"Tip: Want me to shut up? Just type /mute "..lplr.Name.." and you will no longer see my messages.",
 	"Tip: If there is a tie, the winner is random.",
 	"You probably don't own an air fryer.",
-	"Players who spam every letter in one message have no skill and ruin the game for others.",
+	"Spamming every letter in one message is considered cheating.",
+	"Do you know lean?",
+	"This is a wordbot! Automated by your friendly idiot!",
 }
 local chatted = {}
 local points = {}
