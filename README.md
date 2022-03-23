@@ -1,2 +1,2 @@
-# My-Version-Of-RMA-Word-Bot
-Thanks to swatturret
+# My Stupid Ass Lua Scripts
+• RMA Bot - Credits to SwatTurret
